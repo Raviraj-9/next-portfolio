@@ -72,7 +72,7 @@ export default function Hero() {
         >
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-emerald-600">
             <img
-              src="/pfp.jpg?height=320&width=320"
+              src="/profile.jpg?height=320&width=320"
               alt="Mallangouda Patil"
               className="object-cover w-full h-full"
             />
